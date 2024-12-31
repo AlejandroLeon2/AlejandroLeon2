@@ -1,12 +1,6 @@
-<h1 align="left">Hi,<img src="<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>" width="30px" /> I'm Alejandro</h1>
-<h3 align="left">An aspiring fullstack developer from Peru.</h3>
-
-
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<h1 align="left">Hi,I'm Alejandro</h1>
+<h3 align="left">An aspiring fullstack developer.</h3>
 <p align='center'>
-
 <h2> / about me /</h2>
   
 - 🔭 I am currently studying.
